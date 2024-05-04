@@ -1,0 +1,217 @@
+ {
+    "medical_history": [
+    {
+      "id": 1,
+      "patient_id": 1,
+      "doctors_id": [
+        1
+      ],
+      "date": "2024-01-01",
+      "reason": "Check up for hormonal imbalance",
+      "symptoms": [
+        "Fatigue",
+        "Weight gain",
+        "Irregular menstrual periods"
+      ],
+      "personal_background": "No significant history",
+      "family_background": "Thyroid disorders",
+      "lab_results_id": 1,
+      "physical_test": "Elevated TSH levels",
+      "external_reports": [
+        "reports.pdf"
+      ],
+      "medical_exams": [
+        "glucose level test",
+        "blood lipid level test"
+      ],
+      "diagnostic": [
+        "Hypothyroidism"
+      ],
+      "treatment_and_medication":[
+        {
+          "drug_name": "Levothyroxine",
+          "quantity": "30 pills",
+          "concentration": "100mcg",
+          "frequency": "1 time a day",
+          "duration": "Ongoing"
+        }, {
+          "drug_name": "Metformin",
+          "quantity": "30 pills",
+          "concentration": "100mcg",
+          "frequency": "1 time a day",
+          "duration": "Ongoing"
+        },{
+          "drug_name": "Hydrocortisone",
+          "quantity": "30 pills",
+          "concentration": "10mg",
+          "frequency": "2 times a day",
+          "duration": "Ongoing"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "patient_id": 2,
+      "doctors_id": [
+        2
+      ],
+      "date": "2024-02-15",
+      "reason": "Evaluation for diabetes management",
+      "symptoms": [
+        "Increased thirst",
+        "Frequent urination",
+        "Blurry vision"
+      ],
+      "personal_background": [
+        "High blood pressure",
+        "Family history of diabetes"
+      ],
+      "family_background": [
+        "Diabetes"
+      ],
+      "lab_results_id": 2,
+      "physical_test": "High blood glucose levels",
+      "external_reports": [
+        "reports.pdf"
+      ],
+      "medical_exams": [
+        "glucose level test",
+        "blood lipid level test",
+        "progesterone level test"
+      ],
+      "diagnostic": [
+        "Type 2 Diabetes"
+      ],
+      "treatment_and_medication":[
+        {
+          "drug_name": "Metformin",
+          "quantity": "60 pills",
+          "concentration": "500mg",
+          "frequency": "2 times a day",
+          "duration": "Ongoing"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "patient_id": 3,
+      "doctors_id": [
+        3
+      ],
+      "date": "2024-03-10",
+      "reason": "Evaluation for PCOS",
+      "symptoms": [
+        "Irregular periods",
+        "Acne",
+        "Unwanted hair growth"
+      ],
+      "personal_background": [
+        "No significant history"
+      ],
+      "family_background": [
+        "No significant history"
+      ],
+      "lab_results_id": 3,
+      "physical_test": "Elevated androgen levels",
+      "external_reports": [
+        "reports.pdf"
+      ],
+      "medical_exams": [
+        "glucose level test",
+        "blood lipid level test"
+      ],
+      "diagnostic": [
+        "Polycystic Ovary Syndrome (PCOS)"
+      ],
+      "treatment_and_medication":[
+        {
+          "drug_name": "Combined oral contraceptive",
+          "quantity": "1 pack",
+          "frequency": "1 time a day",
+          "duration": "Ongoing"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "patient_id": 4,
+      "doctors_id": [
+        4
+      ],
+      "date": "2024-04-05",
+      "reason": "Evaluation for hyperthyroidism",
+      "symptoms": [
+        "Weight loss",
+        "Rapid heartbeat",
+        "Anxiety"
+      ],
+      "personal_background": [
+        "No significant history"
+      ],
+      "family_background": [
+        "Thyroid disorders"
+      ],
+      "lab_results_id": 4,
+      "physical_test": "Elevated T3 and T4 levels",
+      "external_reports": [
+        "reports.pdf"
+      ],
+      "medical_exams": [
+        "glucose level test"
+      ],
+      "diagnostic": [
+        "Hyperthyroidism"
+      ],
+      "treatment_and_medication":[
+        {
+          "drug_name": "Propylthiouracil (PTU)",
+          "quantity": "90 pills",
+          "concentration": "50mg",
+          "frequency": "3 times a day",
+          "duration": "Ongoing"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "patient_id": 5,
+      "doctors_id": [
+        1
+      ],
+      "date": "2024-05-20",
+      "reason": "Evaluation for adrenal insufficiency",
+      "symptoms": [
+        "Fatigue",
+        "Weakness",
+        "Dizziness"
+      ],
+      "personal_background": [
+        "Asthma"
+      ],
+      "family_background": [
+        "No significant history"
+      ],
+      "lab_results_id": 5,
+      "physical_test": "Low cortisol levels",
+      "external_reports": [
+        "reports.pdf"
+      ],
+      "medical_exams": [
+        "testosterone level test"
+      ],
+      "diagnostic": [
+        "Adrenal Insufficiency"
+      ],
+      "treatment_and_medication":[
+        {
+          "drug_name": "Hydrocortisone",
+          "quantity": "30 pills",
+          "concentration": "10mg",
+          "frequency": "2 times a day",
+          "duration": "Ongoing"
+        }
+      ]
+    }
+  ]
+}
+  
